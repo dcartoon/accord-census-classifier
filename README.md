@@ -1,7 +1,7 @@
 accord-census-classifier
 ========================
 
-Uses Accord.Net C.45 decision tree to classify UCI Census Income Data Set.  Solution is
+Uses Accord.Net C4.5 decision tree to classify UCI Census Income Data Set.  Solution is
 designed to be opened with Visual Studio 2012.
 
 ## Setup
